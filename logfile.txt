@@ -1,0 +1,16 @@
+1736664281489 , GET : /api/users
+1736664284528 , GET : /api/users/1001
+1736664285643 , GET : /api/users/1002
+1736664393704 , GET : /api/users/1002 undefined 
+1736664409653 , GET : /api/users/1002 undefined 
+1736664463583 , GET : /api/users/1002 localhost 
+1736665259488 , POST : /api/users /api/users 
+1736666865328 , POST : /api/users localhost 
+1736678882017 , GET : /api/users/1002 localhost 
+1736678946194 , GET : /users localhost 
+1736678949836 , GET : /users localhost 
+1736678973837 , GET : /users localhost 
+1736678975915 , GET : /users localhost 
+1736679013925 , GET : /users localhost 
+1736679035963 , GET : /users localhost 
+1736679082121 , GET : /users localhost 
