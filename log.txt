@@ -1,0 +1,12 @@
+1736775758842 , GET : /users localhost 
+1736775771146 , GET : /users localhost 
+1736775779051 , GET : /users/web localhost 
+1736775807591 , GET : /web localhost 
+1736775819196 , GET : /users localhost 
+1736775820329 , GET : /users/web localhost 
+1736775827700 , GET : /users/ localhost 
+1736775830909 , GET : /users localhost 
+1736775844630 , POST : /api/users localhost 
+1736775864962 , POST : /users localhost 
+1736775870040 , GET : /users localhost 
+1736775894768 , DELETE : /users/678518b81fcef170cb9775de localhost 
